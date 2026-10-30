@@ -12,12 +12,3 @@ This project is a complete MERN-stack authenticated task management application 
 - `backend/`: Node.js, Express, and MongoDB backend logic (MVC architecture).
 - `frontend/`: Vanilla JavaScript, HTML, and CSS client dashboard.
 
-## Getting Started Locally
-1. Clone the repository.
-2. Navigate to the `backend/` directory and run `npm install`.
-3. Create a `.env` file in the `backend/` folder with:
-   - `PORT=5000`
-   - `MONGODB_URI=your_mongodb_connection_string`
-   - `JWT_SECRET=your_jwt_secret_key`
-4. Run `npm run dev` to start the server.
-5. Open `frontend/index.html` in your browser to use the application.
